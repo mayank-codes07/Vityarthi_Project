@@ -91,8 +91,6 @@ to expect. Quick check:
 - Matching is based on words, so different words for the same thing (for example
   "purse" and "wallet") are not matched.
 
-## Screenshots
-Add screenshots of your own runs here, for example:
 
 
 ## Documentation
